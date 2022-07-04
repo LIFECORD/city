@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/yicity</id>
     <title>용인시 ─ 링크트리</title>
-    <updated>2022-07-04T00:53:37.542Z</updated>
+    <updated>2022-07-04T03:12:52.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
     <entry>
@@ -27,10 +27,10 @@
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="https://www.facebook.com/yicity" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-yicity " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">용인시청 공식 페이스북</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조아용 6월 배경화면 다운받아용]]></title>
-        <id>https://blog.naver.com/govlrodtnr/222756207806</id>
-        <link href="https://blog.naver.com/govlrodtnr/222756207806"/>
-        <updated>2022-06-21T05:15:02.583Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="https://blog.naver.com/govlrodtnr/222756207806" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-yicity " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">조아용 6월 배경화면 다운받아용</p></a></div>]]></content>
+        <title type="html"><![CDATA[조아용 7월 배경화면 다운받아용]]></title>
+        <id>https://blog.naver.com/govlrodtnr/222799430898</id>
+        <link href="https://blog.naver.com/govlrodtnr/222799430898"/>
+        <updated>2022-07-04T03:12:29.951Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA beKsdf"><a href="https://blog.naver.com/govlrodtnr/222799430898" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-yicity " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ imjgnX"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">조아용 7월 배경화면 다운받아용</p></a></div>]]></content>
     </entry>
 </feed>
