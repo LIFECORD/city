@@ -1,22 +1,3 @@
-[yongin_kakao]
-title = "용인시 ─ 카카오톡 채널"
-url = "https://pf.kakao.com/_SxkxoYxl"
-entrySelector = "div.wrap_post"
-titleSelector = "p.desc_post"
-linkSelector = "span.txt_time a"
-contentSelector = "p.desc_post"
-DateSelector = "span.txt_time a"
-DateFormat = "MM월 dd일 a hh:mm"
-imageSelector = "a.link_thumb div.wrap_thumb"
-waitUntil = "networkidle"
-
-[yongin_linktree]
-title = "용인시 ─ 링크트리"
-url = "https://linktr.ee/yicity"
-entrySelector = "div.sc-bdfBwQ.pkAuV"
-titleSelector = "a[aria-describedby='profile-yicity '] p"
-linkSelector = "a[aria-describedby='profile-yicity ']"
-
 [naverpost_yongin]
 title = "용인시청 ─ 네이버 포스트"
 url = "https://m.post.naver.com/my.naver?memberNo=5374901"
